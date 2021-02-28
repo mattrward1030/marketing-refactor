@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* consolidate benefits by adding margin bottom and color therefore getting rid of the 3 classes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
