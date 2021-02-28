@@ -12,7 +12,6 @@ body {
 
 header {
     position: fixed;
-    padding: 10px;
     width: 100%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -55,17 +54,7 @@ a {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-    max-height: 200px;
-}
 
-.float-right {
-    float: right;
-    margin-left: 25px;
-    max-height: 200px;
-}
 
 .content {
     width: 75%;
@@ -85,6 +74,18 @@ a {
     margin-bottom: 20px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+    max-height: 200px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+    max-height: 200px;
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -99,9 +100,6 @@ a {
     text-align: center;
     color: #ffffff;
 }
-
-
-
 
 
 .benefit-content img  {
