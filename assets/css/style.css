@@ -80,6 +80,10 @@ a {
     background-color: #0072bb;
     color: #ffffff;
 }
+.section-content h2{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
 
 .benefits {
     margin-right: 20px;
