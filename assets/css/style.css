@@ -43,9 +43,9 @@ a {
     text-decoration: none;
 }
 
-p {
+/* p {
     font-size: 16px;
-}
+} */
 
 .hero {
     height: 800px;
@@ -75,10 +75,8 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
-    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
