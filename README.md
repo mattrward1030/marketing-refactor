@@ -24,15 +24,17 @@ https://mattrward1030.github.io/marketing-refactor/
 <img src="./assets/images/webpage.png" alt="screenshot of my live webpage">
 
 ## Features
-Html is comprised of semantic html elements
-Elements follow a logical structure
-Elements follow a logical structure independent of the HTML elements
-Contains accesible alt attributes for every img tag
-All heading attributes fall in sequential order
-Has a concise, descriptive title
-CSS selectors and properties are consolidated and organized
-CSS file is properly commented
-Webpage is accesible to screen readers
+<ul>
+<li>Html is comprised of semantic html elements</li>
+<li>Elements follow a logical structure</li>
+<li>Elements follow a logical structure independent of the HTML elements</li>
+<li>Contains accesible alt attributes for every img tag</li>
+<li>All heading attributes fall in sequential order</li>
+<li>Has a concise, descriptive title</li>
+<li>CSS selectors and properties are consolidated and organized</li>
+<li>CSS file is properly commented</li>
+<li>Webpage is accesible to screen readers</li>
+</ul>
 
 ## Tests 
 N/A
