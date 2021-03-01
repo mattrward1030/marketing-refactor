@@ -23,9 +23,26 @@ https://mattrward1030.github.io/marketing-refactor/
 
 <img src="./assets/images/webpage.png" alt="screenshot of my live webpage">
 
+## Features
+Html is comprised of semantic html elements
+Elements follow a logical structure
+Elements follow a logical structure independent of the HTML elements
+Contains accesible alt attributes for every img tag
+All heading attributes fall in sequential order
+Has a concise, descriptive title
+CSS selectors and properties are consolidated and organized
+CSS file is properly commented
+Webpage is accesible to screen readers
+
+## Tests 
+N/A
+
+## Credits 
+N/A
+
 ## Contributing 
 
-Pull requests are welcome and encouraged
+Pull requests are welcome and encouraged. Hit me up on my github <a href="https://github.com/mattrward1030">mattrward1030</a>
 
 ## Badges
  <img src="https://shields.io/badge/license-MIT-green" alt="mit license badge">
