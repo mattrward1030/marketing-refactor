@@ -21,7 +21,7 @@ My page is live on github!
 
 https://mattrward1030.github.io/marketing-refactor/
 
-
+<img src="./assets/images/webpage.png" alt="screenshot of my live webpage">
 
 ## Contributing 
 
