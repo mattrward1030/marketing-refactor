@@ -27,6 +27,9 @@ https://mattrward1030.github.io/marketing-refactor/
 
 Pull requests are welcome and encouraged
 
+## Badges
+ <img src="https://shields.io/badge/license-MIT-green" alt="mit license badge">
+
 ## License 
 
 MIT License
